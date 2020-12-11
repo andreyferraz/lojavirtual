@@ -1,5 +1,4 @@
 <?php
-
 namespace Hcode;
 
 use Rain\Tpl;
